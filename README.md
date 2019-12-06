@@ -8,13 +8,16 @@ Patrones de diseño aplicados:
 * Proxy Remoto (misma interfaz para cliente y servidor para que esten en sintoniá 
 * Factory (para diferentes bases de datos y distintas sentencias para consulta)
 * Composite (Validar con restricciones para el registro de usuarios)
-
-
+----------------------------------------
 Bases de Datos Usadas:
 * SQL Server
 * MySQL
 
 Este proyecto fue hecho por:
-Alberto Ornelas 
-Jesus Gil
+Alberto Ornelas, 
+Jesus Gil,
 Jesus Villalobos
+----------------------------------------
+Estudiantes de Ing. Sistemas de informacion
+Univeridad de Sonora
+
