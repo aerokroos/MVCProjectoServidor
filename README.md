@@ -5,7 +5,7 @@ y el servidor le contestará y hará  su trabajo.
 
 Patrones de diseño aplicados:
 * MVC
-* Proxy Remoto (misma interfaz para cliente y servidor para que esten en sintoniá 
+* Proxy Remoto (misma interfaz para cliente y servidor para que esten en sintonía 
 * Factory (para diferentes bases de datos y distintas sentencias para consulta)
 * Composite (Validar con restricciones para el registro de usuarios)
 ----------------------------------------
@@ -18,6 +18,6 @@ Alberto Ornelas,
 Jesus Gil,
 Jesus Villalobos
 ----------------------------------------
-Estudiantes de Ing. Sistemas de informacion
+Estudiantes de Ing. Sistemas de información
 Univeridad de Sonora
 
